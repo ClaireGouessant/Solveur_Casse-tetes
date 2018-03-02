@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1519754786 source:d:\_claire2_\l3\aide décision\ad-claire\affichage.cpp
+	<iostream>
+	"Structure.h"
+
+1519769551 d:\_claire2_\l3\aide décision\ad-claire\structure.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1519598618 source:d:\_claire2_\l3\aide décision\ad-claire\lecturefichiers.cpp
+	<iostream>
+	"Structure.h"
+	<fstream>
+
+1519769712 source:d:\_claire2_\l3\aide décision\ad-claire\main.cpp
+	<iostream>
+	"Structure.h"
+
+1492995908 d:\_claire2_\l3\aide décision\ad-claire\resolve.h
+	"Structure.h"
+
+1519683753 source:d:\_claire2_\l3\aide décision\ad-claire\resolve.cpp
+	<iostream>
+	"resolve.h"
+
