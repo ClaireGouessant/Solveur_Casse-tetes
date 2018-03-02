@@ -2,6 +2,7 @@
 Ce programme peut résoudre différents problèmes à satisfaction de contraintes, autrement dit résoudre différents casse-têtes. Pour ce faire, ce programme implémente une intelligence artificielle de type backtrack.
 
 ##Énigme 1, le petit sudoku :
+
 Ce petit exemple me permettra de vous expliquer simplement le fonctionnement du programme.
 <p align="center">
   <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/SudokuVierge.PNG" width="200"/>
@@ -29,6 +30,7 @@ Voici la solution proposée par le programme :
   <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/PB2.PNG" width="200"/>
   <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/Dames.PNG" width="200"/>
 </p>
+
 *Dans la modélisation de ce problème, les dames sont représentées par les variables x1 à x4. Les variables x5 à x17 ne sont que des variables utilisées pour la modélisation du problème.*
 
 ##Énigme 3, coloriage de carte à 3 couleurs :
