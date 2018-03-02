@@ -17,7 +17,7 @@ En deuxième partie, il y figure des contraintes à respecter pour satisfaire le
 Lorsqu’on lance le programme, l’ordinateur affiche le problème original puis sa solution, si elle existe.
 Ici l’ordinateur donne donc la solution :
 <p align="center">
-  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/PB1.PNG" width="300"/>
+  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/PB1.PNG" width="200"/>
   <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/SudokuRésolu.PNG" width="200"/>
 </p>
 
@@ -26,25 +26,25 @@ Il s’agit de placer 4 dames sur un damier 4x4. Les dames ne doivent n’être 
 
 Voici la solution proposée par le programme :
 <p align="center">
-  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/PB2.PNG" width="350"/>
-  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/Dames.PNG" width="350"/>
+  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/PB2.PNG" width="200"/>
+  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/Dames.PNG" width="200"/>
 </p>
 *Dans la modélisation de ce problème, les dames sont représentées par les variables x1 à x4. Les variables x5 à x17 ne sont que des variables utilisées pour la modélisation du problème.*
 
 ##Énigme 3, coloriage de carte à 3 couleurs :
 Il s’agit ici de colorier les arrondissements de la ville de Paris avec 3 couleurs différentes. Deux couleurs identiques ne doivent pas se toucher.
 <p align="center">
-  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/paris.png" width="350"/>
+  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/parisB.png" width="200"/>
 </p>
 Le programme nous affiche :
 <p align="center">
-  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/PB3.PNG" width="350"/>
+  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/PB3.PNG" width="200"/>
 </p>
 En effet, la carte ne peut être colorée par 3 couleurs uniquement.
 
 ##Énigme 4, coloriage de carte à 4 couleurs :
 Même problème que précédemment, avec 4 couleurs :
 <p align="center">
-  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/PB4.PNG" width="350"/>
-  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/pairsM.png" width="350"/>
+  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/PB4.PNG" width="200"/>
+  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/parisM.png" width="200"/>
 </p>
