@@ -1,8 +1,7 @@
 # Solveur_Casse-tetes
 Ce programme peut résoudre différents problèmes à satisfaction de contraintes, autrement dit résoudre différents casse-têtes. Pour ce faire, ce programme implémente une intelligence artificielle de type backtrack.
 
-##Énigme 1, le petit sudoku :
-
+## Énigme 1, le petit sudoku :
 Ce petit exemple me permettra de vous expliquer simplement le fonctionnement du programme.
 <p align="center">
   <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/SudokuVierge.PNG" width="200"/>
@@ -22,7 +21,7 @@ Ici l’ordinateur donne donc la solution :
   <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/SudokuRésolu.PNG" width="200"/>
 </p>
 
-##Énigme 2, le problème des 4 dames :
+## Énigme 2, le problème des 4 dames :
 Il s’agit de placer 4 dames sur un damier 4x4. Les dames ne doivent n’être ni sur la même ligne, ni sur la même colonne ni dans la même diagonale.
 
 Voici la solution proposée par le programme :
@@ -33,7 +32,7 @@ Voici la solution proposée par le programme :
 
 *Dans la modélisation de ce problème, les dames sont représentées par les variables x1 à x4. Les variables x5 à x17 ne sont que des variables utilisées pour la modélisation du problème.*
 
-##Énigme 3, coloriage de carte à 3 couleurs :
+## Énigme 3, coloriage de carte à 3 couleurs :
 Il s’agit ici de colorier les arrondissements de la ville de Paris avec 3 couleurs différentes. Deux couleurs identiques ne doivent pas se toucher.
 <p align="center">
   <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/parisB.png" width="200"/>
@@ -44,7 +43,7 @@ Le programme nous affiche :
 </p>
 En effet, la carte ne peut être colorée par 3 couleurs uniquement.
 
-##Énigme 4, coloriage de carte à 4 couleurs :
+## Énigme 4, coloriage de carte à 4 couleurs :
 Même problème que précédemment, avec 4 couleurs :
 <p align="center">
   <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/DocREADME/PB4.PNG" width="200"/>
