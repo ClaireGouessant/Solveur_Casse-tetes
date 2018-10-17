@@ -4,7 +4,7 @@ Ce programme peut résoudre différents problèmes à satisfaction de contrainte
 ## Énigme 1, le petit sudoku :
 Ce petit exemple me permettra de vous expliquer simplement le fonctionnement du programme.
 <p align="center">
-  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/Image/SudokuVierge.PNG" width="200"/>
+  <img src="https://github.com/ClaireGouessant/Solveur_Casse-tetes/blob/master/Images/SudokuVierge.PNG" width="200"/>
 </p>
 Ce sudoku est décrit dans le fichier pb1.txt.
 
